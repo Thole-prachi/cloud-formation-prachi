@@ -4,3 +4,7 @@ EC2Instance:
 	  AvailabilityZone: us-west-1
 	  ImageId: ami-06fcc1f0bc2c8943f
 	  InstanceType: t2.micro
+	  key-name new-devops
+	  security-group-ids sg-062936fa37dd9290d
+	  subnet-id subnet-38917962
+	  region us-west-1b
